@@ -110,3 +110,32 @@ x==========x]
 [2025-03-11 17:11:30,992: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
 
 x==========x]
+[2025-03-11 17:30:16,643: INFO: config: PyTorch version 2.6.0 available.]
+[2025-03-11 17:39:49,471: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 17:39:49,476: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 17:39:49,477: INFO: common: created directory at: artifacts]
+[2025-03-11 17:39:49,480: INFO: common: created directory at: artifacts/model_trainer]
+[2025-03-11 18:22:34,155: INFO: main: Welcome to our custom logging]
+[2025-03-11 18:22:45,264: INFO: config: PyTorch version 2.6.0 available.]
+[2025-03-11 18:22:46,367: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-03-11 18:22:46,369: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 18:22:46,374: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 18:22:46,374: INFO: common: created directory at: artifacts]
+[2025-03-11 18:22:46,374: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-11 18:22:46,374: INFO: data_ingestion: File already exists of size: artifacts/data_ingestion/data.zip]
+[2025-03-11 18:22:46,557: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2025-03-11 18:22:46,557: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-03-11 18:22:46,558: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 18:22:46,560: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 18:22:46,560: INFO: common: created directory at: artifacts]
+[2025-03-11 18:22:46,561: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-11 18:22:48,326: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2025-03-11 18:22:48,327: INFO: main: >>>>>> stage Model Trainer Stage started <<<<<<]
+[2025-03-11 18:22:48,329: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 18:22:48,330: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 18:22:48,331: INFO: common: created directory at: artifacts]
+[2025-03-11 18:22:48,331: INFO: common: created directory at: artifacts/model_trainer]
