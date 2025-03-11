@@ -1,0 +1,112 @@
+[2025-03-11 15:14:57,824: INFO: config: PyTorch version 2.6.0 available.]
+[2025-03-11 15:33:13,702: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 15:33:13,709: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 15:33:37,466: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 15:33:37,468: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 15:33:37,485: INFO: common: created directory at: artifacts]
+[2025-03-11 15:34:33,864: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 15:34:33,865: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 15:34:33,866: INFO: common: created directory at: artifacts]
+[2025-03-11 15:34:33,867: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-11 15:35:19,458: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 15:35:19,460: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 15:35:19,462: INFO: common: created directory at: artifacts]
+[2025-03-11 15:35:19,464: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-11 15:36:30,941: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 15:36:30,944: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 15:36:30,945: INFO: common: created directory at: artifacts]
+[2025-03-11 15:36:30,946: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-11 15:36:30,947: INFO: common: created directory at: artifacts/data_transformation/samsum_dataset]
+[2025-03-11 15:39:48,902: INFO: main: Welcome to our custom logging]
+[2025-03-11 15:39:49,110: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-03-11 15:39:49,112: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 15:39:49,112: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 15:39:49,112: INFO: common: created directory at: artifacts]
+[2025-03-11 15:39:49,113: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-11 15:39:49,983: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1797:1C9334:24AB91:283258:67D05943
+Accept-Ranges: bytes
+Date: Tue, 11 Mar 2025 15:39:49 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ams21030-AMS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1741707590.552053,VS0,VE375
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 6b9587ca7b9a2766d38acbc348f5977cadc7441c
+Expires: Tue, 11 Mar 2025 15:44:49 GMT
+Source-Age: 0
+
+]
+[2025-03-11 15:39:50,120: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2025-03-11 15:40:04,729: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 15:40:04,732: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 15:40:04,733: INFO: common: created directory at: artifacts]
+[2025-03-11 15:40:04,734: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-11 15:40:11,576: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 15:40:11,579: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 15:40:11,581: INFO: common: created directory at: artifacts]
+[2025-03-11 15:40:11,582: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-11 15:40:27,790: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 15:40:27,791: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 15:40:27,792: INFO: common: created directory at: artifacts]
+[2025-03-11 15:40:27,793: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-11 17:11:13,087: INFO: main: Welcome to our custom logging]
+[2025-03-11 17:11:22,042: INFO: config: PyTorch version 2.6.0 available.]
+[2025-03-11 17:11:22,519: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-03-11 17:11:22,520: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 17:11:22,525: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 17:11:22,525: INFO: common: created directory at: artifacts]
+[2025-03-11 17:11:22,525: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-11 17:11:23,346: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8EF8:1351AC:3AE49E:409B16:67D06EBA
+Accept-Ranges: bytes
+Date: Tue, 11 Mar 2025 17:11:23 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ams2100122-AMS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1741713083.900885,VS0,VE401
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 610487388e5b851fe9a9bc1a90480a14c2f410ba
+Expires: Tue, 11 Mar 2025 17:16:23 GMT
+Source-Age: 0
+
+]
+[2025-03-11 17:11:23,482: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2025-03-11 17:11:23,482: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-03-11 17:11:23,483: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-03-11 17:11:23,484: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-11 17:11:23,484: INFO: common: created directory at: artifacts]
+[2025-03-11 17:11:23,484: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-11 17:11:30,992: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
